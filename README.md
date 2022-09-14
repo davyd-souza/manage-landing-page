@@ -28,7 +28,7 @@
 
 <h2 id="objective">🎯 Objective </h2>
 
-<p>This project was made following Front End Mentor's design, you can see the challenge by <a href="https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5">clicking here.</p>
+<p>This project was made following Front End Mentor's design, you can see the challenge by <a href="https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5">clicking here.</a></p>
 <p>Every now and them you'll be asked to create an responsive landing page from a design, so this is the core objective of this project, not design a page instead build one.</p>
 
 <em>User should be able to:</em>
