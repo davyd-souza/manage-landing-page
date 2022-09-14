@@ -211,11 +211,16 @@ p[data-width="wide"] { max-width: 42ch; }
 
 
 @media (max-width: 47em) {
+	.primary-header[data-overlay] {
+		position: relative;
+		z-index: 999;
+	}
+
 	.primary-navigation {
 		display: none;
 
 		max-width: 25rem;
-		margin-left: auto;
+		margin-inline: auto;
 
 		position: fixed;
 		inset: 7rem var(--size-400) auto;
@@ -264,10 +269,21 @@ p[data-width="wide"] { max-width: 42ch; }
 		border: 0;
 
 		padding: .5em;
+
+		width: 1.65rem;
+		aspect-ratio: 1;
+
+		background-image: url('imgs/icon-hamburger.svg');
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-position: center;
 	}
 	
-	.mobile-nav-toggle .icon-close { display: none;	}
+	.mobile-nav-toggle[aria-expanded="true"] {
+		background-image: url('imgs/icon-close.svg');
+	}
 }
+
 
 
 /* Footer  */
