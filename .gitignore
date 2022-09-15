@@ -25,3 +25,5 @@ dist-ssr
 
 # Helper
 style-guide.md
+# Local Netlify folder
+.netlify
