@@ -2,13 +2,14 @@
 <p align="center">
   Manage makes it simple for software teams to plan day-to-day tasks while keeping the larger team goals in view.
 </p>
-<h2 align="center">
-  🚧  In construction...  🚧
-</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/B9bS3mQ86b4nIDW6Mq/giphy.gif" alt="gif showing desktop version of website"/>
+</p>
 <p align="center">
   <a href="#tech">Technologies</a> •
   <a href="#use">How to Use</a> •
   <a href="#objective">Objective</a> •
+  <a href="#mobile">Mobile view</a> •
   <a href="#author">Author</a>
 </p>
 
@@ -43,6 +44,13 @@
 		</ul>
 	</li>
 </ul>
+
+
+
+<h2 id="mobile">📱 Mobile view</h2>
+<p align="left">
+  <img src="https://media.giphy.com/media/TAynejacKGYbiTSt3q/giphy.gif" alt="gif showing mobile version of website">
+</p>
 
 
 
