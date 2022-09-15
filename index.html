@@ -241,7 +241,18 @@
 				</div>
 				
 				<form class="primary-footer__form" action="">
-					<input placeholder="Updates in your inbox..." type="email" >
+					<div class="primary-footer__form-group">
+						<input
+							required
+							type="email"
+							id="email"
+							class="primary-footer__form-input"
+							pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
+							placeholder="Updates in your inbox..." 
+							title="Enter valid email address"
+							autocomplete="off"
+						>
+					</div>
 					<button class="btn" data-shadow="none">Go</button>
 				</form>
 
