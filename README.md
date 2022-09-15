@@ -1,4 +1,4 @@
-<h1 align="center">📔 Manage Landing Page</h1>
+<h1 align="center">📊 Manage Landing Page</h1>
 <p align="center">
   Manage makes it simple for software teams to plan day-to-day tasks while keeping the larger team goals in view.
 </p>
